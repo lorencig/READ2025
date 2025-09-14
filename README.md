@@ -16,7 +16,7 @@ All materials are shared in accordance with the **FAIR principles** (Findable, A
 
 ## Full Paper link
 
-You can read the whole paper at [https://lorencig.github.io/#/read2025](https://lorencig.github.io/#/read2025)
+You can read the whole paper at [lorencig.github.io/read2025](https://lorencig.github.io/#/read2025)
 
 ## Licensing
 
